@@ -1,2 +1,2 @@
 # ai-dev
-Experiment with AI Technologies
+Experiment with AI Technologies.
